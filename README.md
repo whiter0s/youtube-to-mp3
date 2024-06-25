@@ -1,10 +1,11 @@
 # Youtube To Mp3
 
-# Install
+
 ## Requirements
--Python 
+-Python
+## Install
 ''' git clone https://github.com/whiter0s/youtube-to-mp3'''
 and then
-''' pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 finally 
-''' python main.py [url] [quality(high,low)]'''
+```python main.py [url] [quality(high,low)]```
