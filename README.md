@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 finally 
 ```
-python main.py [url] [quality(high,low)] [filename]
+python main.py [url] [filename]
 ```
 ## Errors
 
